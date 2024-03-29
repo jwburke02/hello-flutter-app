@@ -9,6 +9,8 @@ Documentation I found useful in creating this (From Flutter):
 This simple tutorial helped me out a lot to get started (Once Installed):
 - https://www.youtube.com/watch?v=lTRrEPZ_bP4&themeRefresh=1
 
+My implementation is found in lib/main.dart
+
 ## Routes
 ### Hello World Route
 This is the first visible route when the project is ran. It simply says "Hello World!" in the App Bar and has a "Continue..." button to move to the next route.
